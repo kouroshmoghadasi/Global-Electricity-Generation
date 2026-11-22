@@ -1,0 +1,16 @@
+# Keep only the publish-ready report; ignore draft/broken copies
+Global Electricity Generation.pbix
+Global Electricity Generation1.pbix
+Global Electricity Generation - Final.pbix
+Global Electricity Generation - Redesigned.pbix
+Global Electricity Generation - Redesigned.broken.pbix
+Global Electricity Generation - Fixed Top10.pbix
+Global Electricity Generation - Radio White.pbix
+Global Electricity Generation - Table Fix.pbix
+Global Electricity Generation - With About.pbix
+*.rar
+*.tmp.pbix
+_*.pbix
+.DS_Store
+Thumbs.db
+~$*
