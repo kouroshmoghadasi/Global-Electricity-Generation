@@ -69,4 +69,8 @@ Quick check for **Iran, 2024**:
 Report built for learning and portfolio use.  
 Underlying electricity data © Our World in Data contributors / original providers — see the OWID Electricity Mix page for citation details.
 
-Persian project notes: `درباره پروژه و منبع داده.md`
+Project notes:
+
+- `About-and-Data-Source.md`
+- `Dashboard-Implementation-Guide.md`
+- `Review-and-Correction-Guide.md`
